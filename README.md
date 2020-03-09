@@ -1,6 +1,7 @@
 ![ts-badge](https://img.shields.io/badge/TypeScript-3.8-blue.svg)
 ![nodejs-badge](https://img.shields.io/badge/Node.js->=%2012.13-blue.svg)
 ![license-badge](https://img.shields.io/badge/license-MIT-green.svg)
+[![Build Status](https://travis-ci.com/lpwebit/nodejs-express-typescript.svg?branch=master)](https://travis-ci.com/lpwebit/nodejs-express-typescript)
 
 nodejs-express-typescript
 ===
